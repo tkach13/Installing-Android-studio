@@ -4,7 +4,7 @@
 
 jdk-ს დაყენება
 
-1. შევდივართ ვებსაიტზე https://www.oracle.com/java/technologies/downloads/#jdk18-window
+1. შევდივართ ვებსაიტზე https://download.oracle.com/java/18/latest/jdk-18_windows-x64_bin.exe
 2. ვიწერთ x64 ვერსიას <img width="1213" alt="image" src="https://user-images.githubusercontent.com/25895125/160798192-3c1f0379-c31e-49ba-9992-7a9f28e80fa8.png">
 3. ვაინსტალირებთ პაკეტს სტანდარტულად (next, next)
 
